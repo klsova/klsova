@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @klsova
 - 👀 I’m interested in everything programming related
-- 🌱 I’m currently learning Python3 and Unix
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: Discord: kale#4922
