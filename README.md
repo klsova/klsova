@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @klsova
-- 👀 I’m interested in everything programming related
-- 🌱 I’m currently stuyding the Full Stack Open -course.
+- 👀 I have a great passion for everything programming and IT related
+- 🌱 3rd year IT student in University of Turku
+- Currently working on my bachelor's thesis on procedural content generation in roguelike videogames
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: Discord: kalleleonard
