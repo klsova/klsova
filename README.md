@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on anything :)
 - 📖 Currently studying Next.js and Tailwind CSS for a upcoming proejct ;)
 - 📫 Contact me on Discord if you want get in touch with me: kalleleonard
+[![klsova's GitHub stats](https://github-readme-stats.vercel.app/api?username=klsova)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,java,nodejs,python,sqlite,vercel,express&perline=5" />
