@@ -12,7 +12,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=klsova&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
-<h2> My techstacks:</h2>
+<h2> My techstack:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,java,nodejs,python,sqlite,vercel,express&perline=5" />
