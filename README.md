@@ -7,10 +7,10 @@
 - 📖 Currently studying Next.js and Tailwind CSS for a upcoming project ;)
 - 📫 Contact me on Discord if you want get in touch with me: kalleleonard
 <a href="https://github.com/anuraghaza/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=klsova&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=klsova&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=klsova&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=klsova&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 <h2> My techstacks:</h2>
 <p align="center">
