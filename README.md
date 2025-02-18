@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on anything :)
 - 📖 Currently learning TypeScript, Next.js and Tailwind CSS for a upcoming project
 - 📫 You can find my contact info on my website
-[](https://komarev.com/ghpvc/?username=klsova&color=blue)
+![](https://komarev.com/ghpvc/?username=klsova&color=blue&style=for-the-badge)
 <a href="https://github.com/anuraghaza/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=klsova&theme=dark" />
 </a>
