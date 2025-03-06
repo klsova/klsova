@@ -4,7 +4,7 @@
 - 🌱 3rd year Information Technology student in University of Turku
 - 💻 Currently working on my bachelor's thesis on procedural content generation in roguelike videogames
 - 💞️ I’m looking to collaborate on anything :)
-- 📖 Currently learning TypeScript, Next.js and Tailwind CSS for a upcoming project
+- 📖 Currently learning TypeScript, Next.js and Tailwind CSS
 - 📫 You can find my contact info on my website
   
 ![](https://komarev.com/ghpvc/?username=klsova&color=blue&style=for-the-badge)
