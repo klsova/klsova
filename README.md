@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m @klsova </h1>
 
 - 👾 I enjoy everything programming related, but my passion is especially in frontend web development
-- 🌱 3rd year Information Technology student in University of Turku
+- 🌱 MSc. Data Analytics student in University of Turku
 - 💞️ I’m looking to collaborate on anything :)
 - 📖 Currently learning TypeScript, Next.js and Tailwind CSS
 - 📫 You can find my contact info on my website
