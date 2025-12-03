@@ -8,9 +8,6 @@
   
 ![](https://komarev.com/ghpvc/?username=klsova&color=blue&style=for-the-badge)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=klsova&layout=compact&langs_count=8&card_width=320&theme=dark&exclude_repo=nakittaja" />
-</a>
 <h2> My techstack:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
